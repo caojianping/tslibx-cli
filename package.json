@@ -1,10 +1,10 @@
 {
-  "name": "tsx-cli",
+  "name": "tslibx-cli",
   "version": "1.0.0",
   "description": "TypeScript库模板代码生成脚手架，生成常用的TypeScript、rollup配置代码。",
   "main": "bin/index.js",
   "bin": {
-    "tsx-cli": "./bin/index.js"
+    "tslibx-cli": "./bin/index.js"
   },
   "files": [
     "bin",
@@ -17,9 +17,9 @@
   "author": "caojianping",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caojianping/tsx-cli/issues"
+    "url": "https://github.com/caojianping/tslibx-cli/issues"
   },
-  "homepage": "https://github.com/caojianping/tsx-cli#readme",
+  "homepage": "https://github.com/caojianping/tslibx-cli#readme",
   "dependencies": {
     "chalk": "^3.0.0",
     "co": "^4.6.0",
